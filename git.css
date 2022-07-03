@@ -1,0 +1,25 @@
+.center {
+    text-align: center;
+
+}
+
+.blinking{
+    animation:blinkingText 1.2s infinite;
+    font-size: xx-large;
+}
+@keyframes blinkingText{
+    0%{   color: #000;    }
+    25%{   color: rgb(195, 35, 35); }
+    50%{    color: blue ;}
+    75%{   color: green;  }
+    100%{   color: #000;    }
+}
+
+/* .moving_text{
+        font-size: xx-large;
+        color: red;
+        position: relative;
+        animation-name: fade;
+        animation-duration: 10s;
+      }
+ */
