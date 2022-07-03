@@ -1,2 +1,1 @@
-"# first_git_cli" 
-
+Just for practicing git and CLI
