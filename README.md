@@ -1,1 +1,2 @@
-Just for practicing git and CLI
+Just practicing git and CLI
+
